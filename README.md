@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joanna</h1>
-<h3 align="center">A passionate backed developer from Poland</h3>
+
 
 - 🔭 I’m currently working on [PlannerForTutor](https://github.com/joannaBabinska/PlannerForTutor)
 
